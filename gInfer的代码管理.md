@@ -138,7 +138,7 @@ git clone xxx.git
 git remote add upstream wks.git
 ```
 ### 推荐的工作流程
-![[gInfer_git_flow.png]]
+![gInfer_git_flow.png](./images/gInfer_git_flow.png)
 1 新建分支
 ```git
 git fetch upstream 202405dev:newFeatureBranch // 新建分支newFeatureBranch，并让其跟踪主库upstream的主开发分支202405dev
